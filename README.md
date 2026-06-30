@@ -131,7 +131,7 @@ I'm a passionate Data Science student at **United University, Prayagraj**, with 
 
 📧 **Email:** [rajkumar98679867@gmail.com](mailto:rajkumar98679867@gmail.com)
 
-💼 **LinkedIn:** *(Add LinkedIn URL)*
+💼 **LinkedIn:** *(https://www.linkedin.com/in/rajkumar-714bb5316/)*
 
 🌍 **Portfolio:** https://sahaniraj.netlify.app
 
