@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:07111F,50:123C69,100:00D9FF&height=260&section=header&text=RAJKUMAR&fontSize=70&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Science%20%7C%20Analytics%20%7C%20Machine%20Learning&descSize=18&descAlignY=62&animation=twinkling" width="100%" alt="Rajkumar — header banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:07111F,50:123C69,100:00D9FF&height=260&section=header&text=RAJKUMAR&fontSize=70&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Science%20%7C%20Analytics%20%7C%20Machine%20Learning&descSize=18&descAlignY=62" width="100%" alt="Rajkumar — header banner" />
 
-<a href="https://github.com/Rajkumar-git1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&height=40&lines=Turning+data+into+decisions+%F0%9F%93%8A;Building+and+evaluating+ML+models+%F0%9F%A4%96;Exploring+NLP%2C+LLMs%2C+RAG+%26+AI+Agents+%F0%9F%A7%A0;B.Tech+CSE+(Data+Science)+%C2%B7+Prayagraj+%F0%9F%87%AE%F0%9F%87%B3" alt="Animated typing introduction" /></a>
+<b>Data Science &amp; Analytics · Machine Learning · NLP, LLMs &amp; AI</b>
 
 <br/>
 
@@ -14,7 +14,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rajkumar-git1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/badge/CGPA-8.40%20%2F%2010-22D3EE?style=flat-square&labelColor=07111F" alt="CGPA" />
 <img src="https://img.shields.io/badge/LeetCode-200%2B%20solved-FFA116?style=flat-square&labelColor=07111F" alt="LeetCode solved" />
 <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Entry--level-00D9FF?style=flat-square&labelColor=07111F" alt="Open to work" />
@@ -298,7 +297,7 @@ I'm always happy to talk about data, ML, or collaboration ideas — feel free to
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:087E8B,100:07111F&height=110&section=footer&animation=fadeIn" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:087E8B,100:07111F&height=110&section=footer" width="100%" alt="Footer wave" />
 
 <sub>⭐ If you like my work, consider starring a repo · Last updated: October 2026</sub>
 
